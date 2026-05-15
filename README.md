@@ -3,7 +3,7 @@
 Projeto simples desenvolvido em C# para praticar:
 
 - CRUD
-- Listas (`List<T>`)
+- Listas
 - Orientação a Objetos
 - Estruturas de repetição
 - Condicionais
